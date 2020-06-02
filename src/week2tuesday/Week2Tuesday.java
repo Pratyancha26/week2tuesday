@@ -16,6 +16,7 @@ public class Week2Tuesday {
      */
     public static void main(String[] args) {
         System.out.println("Learn Github");
+        System.out.println("New commit");
     }
     
 }
